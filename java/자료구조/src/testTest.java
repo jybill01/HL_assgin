@@ -1,7 +1,11 @@
 package src;
 
+import java.util.Scanner;
+
 public class testTest {
     public static void main(String[] args){
-        test te = new test();
+        Object n = '2';
+        Integer a = (Integer) n;
+        System.out.print(a);
     }
 }

@@ -1,7 +1,7 @@
 package src.자료구조_12주차;
 
 public class GenList {
-    private ListNode head; // 리스트의 첫 번째 ListNode에 대한 참조를 저장
+    private ListNode head; // 리스트의 첫 번째 ListNode에 대한 참조를 저장ListNode top = new ListNode();
 
     void insertData (Object x) {  // 리스트 head 다음에 새로운 ListNode를 삽입
         ListNode newNode = new ListNode();
