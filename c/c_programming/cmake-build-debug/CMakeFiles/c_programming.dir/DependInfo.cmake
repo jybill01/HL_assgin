@@ -1,15 +1,16 @@
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
+  "C"
   )
 # The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/code/HL_assgin/c/c_programming/c_13.cpp" "C:/code/HL_assgin/c/c_programming/cmake-build-debug/CMakeFiles/c_programming.dir/c_13.cpp.obj"
+set(CMAKE_DEPENDS_CHECK_C
+  "/mnt/c/code/HL_assgin/c/c_programming/main.c" "/mnt/c/code/HL_assgin/c/c_programming/cmake-build-debug/CMakeFiles/c_programming.dir/main.c.o"
+  "/mnt/c/code/HL_assgin/c/c_programming/study/pointer.c" "/mnt/c/code/HL_assgin/c/c_programming/cmake-build-debug/CMakeFiles/c_programming.dir/study/pointer.c.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_C_COMPILER_ID "GNU")
 
 # The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
+set(CMAKE_C_TARGET_INCLUDE_PATH
   )
 
 # Targets to which this target links.

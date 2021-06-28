@@ -1,0 +1,1 @@
+/usr/bin/c++  -fexec-charset=CP949 -g   CMakeFiles/c_programming.dir/test.cpp.o  -o c_programming 

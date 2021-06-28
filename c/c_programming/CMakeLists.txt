@@ -1,16 +1,8 @@
-cmake_minimum_required(VERSION 3.17)
-project(c_programming)
+cmake_minimum_required(VERSION 3.16)
+project(c_programming C)
 
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_C_STANDARD 99)
 
 add_executable(c_programming
-        #c_04.cpp
-        #c_05.cpp
-        #c_06.cpp
-        #main.cpp
-        #c_09.cpp
-        #c_10.cpp
-        #c_11.cpp
-        c_13.cpp)
-
-set(CMAKE_CXX_FLAGS"-fexec-charset=CP949")
+        #main.c
+        study/pointer.c)
