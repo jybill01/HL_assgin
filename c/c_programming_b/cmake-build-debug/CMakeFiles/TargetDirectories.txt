@@ -1,3 +1,3 @@
-/mnt/c/code/HL_assgin/c/c_programming_b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/code/HL_assgin/c/c_programming_b/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/code/HL_assgin/c/c_programming_b/cmake-build-debug/CMakeFiles/c_programming.dir
+/mnt/d/code/HL_assgin/c/c_programming_b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/code/HL_assgin/c/c_programming_b/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/code/HL_assgin/c/c_programming_b/cmake-build-debug/CMakeFiles/c_programming.dir
